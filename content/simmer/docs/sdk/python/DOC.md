@@ -16,7 +16,7 @@ The prediction market interface for AI agents. One SDK connects your agent to Po
 
 - **Install:** `pip install simmer-sdk`
 - **Source:** https://github.com/SpartanLabsXyz/simmer-sdk
-- **Full docs:** https://simmer.mintlify.app/llms-full.txt
+- **Full docs:** https://docs.simmer.markets/llms-full.txt
 - **Support:** https://t.me/+DykggGXL67E4MGE9
 
 ## Quick Start
@@ -140,4 +140,4 @@ briefing = client.get_briefing()
 
 ## Full Reference
 
-For the complete API (alerts, webhooks, risk monitors, order management, Kalshi trading, error handling), see https://simmer.mintlify.app/llms-full.txt
+For the complete API (alerts, webhooks, risk monitors, order management, Kalshi trading, error handling), see https://docs.simmer.markets/llms-full.txt
